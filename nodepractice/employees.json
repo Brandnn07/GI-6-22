@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "employeeName": "Brandon",
+        "employeeSalary": 100000,
+        "employeeDepartment": "Janitorial"
+    },
+    {
+        "employeeID": 2,
+        "employeeName": "Tywin",
+        "employeeSalary": 30000000,
+        "employeeDepartment": "Hand of King"
+    },
+    {
+        "employeeID": 3,
+        "employeeName": "Tyrion",
+        "employeeSalary": 90000,
+        "employeeDepartment": "Imp"
+    },
+    {
+        "employeeID": 4,
+        "employeeName": "Jami",
+        "employeeSalary": 50000,
+        "employeeDepartment": "Kingsguard"
+    },
+    {
+        "employeeID": 5,
+        "employeeName": "Cersei",
+        "employeeSalary": 15000000,
+        "employeeDepartment": "Queen Mother"
+    },
+    {
+        "employeeID": 6,
+        "employeeName": "Joffrey",
+        "employeeSalary": 100000000,
+        "employeeDepartment": "King"
+    },
+    {
+        "employeeID": 7,
+        "employeeName": "Tommen",
+        "employeeSalary": 20000,
+        "employeeDepartment": "Heir to throne"
+    },
+    {
+        "employeeID": 8,
+        "employeeName": "Margery",
+        "employeeSalary": 80000000,
+        "employeeDepartment": "The Queen"
+    },
+    {
+        "employeeID": 9,
+        "employeeName": "Jon",
+        "employeeSalary": 70000,
+        "employeeDepartment": "Bastard"
+    },
+    {
+        "employeeID": 10,
+        "employeeName": "Sansa",
+        "employeeSalary": 100000,
+        "employeeDepartment": "Queen of Winterfell"
+    }
+]
